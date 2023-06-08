@@ -7,7 +7,7 @@ import pulp as pl
 
 # Step 2 - Prepare the input data
 
-file_name = 'LP_Assignment_Aman_Parashar_DataSet61.xlsx'
+file_name = 'Input_Linear_Optimization.xlsx'
 
 
 df = pd.read_excel(file_name, "Problem6",
