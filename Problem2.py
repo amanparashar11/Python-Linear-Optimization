@@ -7,7 +7,7 @@ import pandas as pd
 
 # step 2 - preparing the input data
 
-file_name = 'LP_Assignment_Aman_Parashar_DataSet61.xlsx'
+file_name = 'Input_Linear_Optimization.xlsx'
 df = pd.read_excel(file_name, "Problem2", index_col=0)
 print(df)
 
