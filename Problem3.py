@@ -13,7 +13,7 @@ import pulp as pl
 import pandas as pd
 
 ############################ Step 2 - preparing the input data
-file_name = 'LP_Assignment_Aman_Parashar_DataSet61.xlsx'
+file_name = 'Input_Linear_Optimization.xlsx'
 
 # reading supply df
 supply_df = pd.read_excel(file_name, "Problem3_Supply", index_col=0)
